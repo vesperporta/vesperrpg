@@ -1,0 +1,320 @@
+Name,Skill,Discipline,Difficulty,Description,Cross,Mult,Cross,Mult,Cross,Mult,Energy Draw Ratio,Fatigue Draw Ratio,Concentration Draw Ratio
+Levitate,Telekinesis,Psy,1.9,Maintain a state of movement of a body where desired,Observance,1.1,,,,,0,0,0
+Liquify,Telekinesis,Psy,2.3,Remove the bonds between atoms and form a liquid,Observance,1.1,,,,,0,0,0
+Impact,Telekinesis,Psy,1.5,Deliver a newton force on an object,Observance,1.1,,,,,0,0,0
+Fracture,Telekinesis,Psy,1.7,Break or bend an object depending on brittleness,Observance,1.1,,,,,0,0,0
+Irradiate,Telekinesis,Psy,2.8,Project molicules and atoms into a mass,Observance,1.1,,,,,0,0,0
+Expand,Telekinesis,Psy,3.6,Propell the sum of a mass outward from the center of gracity,Observance,1.1,,,,,0,0,0
+Bind,Telekinesis,Psy,2,Fix engineered objects to change functionality,Observance,1.1,,,,,0,0,0
+Stun,Telekinesis,Psy,2.3,Generate a surge of electrical and light energy to shock and stun,Observance,1.1,,,,,0,0,0
+Induction,Telekinesis,Psy,2.8,Produce electromagnetic fields to disrupt electrical based systems,Observance,1.1,,,,,0,0,0
+Puppetry,Telekinesis,Psy,1.8,Control an organisms motor neural pathways to perform your wills actions,Observance,1.1,,,,,0,0,0
+Burn,Thermokinesis,Psy,1.3,Increase temperature to heat a surface and ignite,Observance,1.1,,,,,0,0,0
+Freeze,Thermokinesis,Psy,1.4,Lower the temperature of a surface towards 0 kelvin,Observance,1.1,,,,,0,0,0
+Reduce,Thermokinesis,Psy,2.2,Chemical reaction within body to remove water,Observance,1.1,,,,,0,0,0
+Emission,Thermokinesis,Psy,1.6,Sear an area for chemical conversion into gases,Observance,1.1,,,,,0,0,0
+Explode,Thermokinesis,Psy,3.6,Using energy produce a violent reaction on a mass,Observance,1.1,,,,,0,0,0
+Fear Psychotic,Illusion,Psy,1.6,Provide another character with the fear of everything around them and attack,,,,,,,0,0,0
+Fear Rejection,Illusion,Psy,1.3,Assert another mind is unable to handle reality and need to escape,,,,,,,0,0,0
+Action Phobia,Illusion,Psy,1.2,Ensure the target character is able to understand the fear of an action beyond their normal feedback,,,,,,,0,0,0
+Confusion,Illusion,Psy,1,Disorientate a mind and reduce concentration,,,,,,,0,0,0
+Perspective,Illusion,Psy,1.4,Convince the targeted mind to perceive you well,,,,,,,0,0,0
+Mood Excite,Illusion,Psy,1.3,Social interaction to promote and excitable mood in target,,,,,,,0,0,0
+Mood Thrifty,Illusion,Psy,1.4,Target becomes more inclined not to spend money and save their credits,,,,,,,0,0,0
+Mood Humble,Illusion,Psy,1.3,Pacify a being from being overly aggressive towards another,,,,,,,0,0,0
+Disorder Stress,Illusion,Psy,1.8,Stress the target with a permanent pivot to their psychology,,,,,,,0,0,0
+Disorder Depressed,Illusion,Psy,2.4,Build a structure of psychology to promote depressive tendencies,,,,,,,0,0,0
+Disorder Psychotic,Illusion,Psy,2.8,Bend a targets model of the world to an alternative reality,,,,,,,0,0,0
+Regenerate,Healing,Psy,2.7,Mend the flesh of a body,Imunokinesis,0.7,,,,,0,0,0
+Meridians,Healing,Psy,1.3,Augment the state of a minds spiritual channeling,,,,,,,0,0,0
+Toxification,Healing,Psy,2.8,"Deliver hemotoxins, phototoxins, necrotoxins, and neurotoxins",,,,,,,0,0,0
+Phage Manifestation,Healing,Psy,3.4,Produce and deploy a phage or bacterium to a host body,,,,,,,0,0,0
+Decontaminate,Healing,Psy,1.6,Compensate for the reduction of toxins and radiation in a body,,,,,,,0,0,0
+Imunokinesis,Healing,Psy,1.2,Control of an imunne system,Regenerate,0.3,,,,,0,0,0
+Detection,Precognition,Psy,1.4,Know where points of interest are and items contained,,,,,,,0,0,0
+Cognitive Defence,Precognition,Psy,1.3,Defencive bonus when you know how to defend yourself beforehand,,,,,,,0,0,0
+Future Tactiatian,Precognition,Psy,1.8,Predict motions and actions by thinking about the situation,,,,,,,0,0,0
+Failure Pretext,Precognition,Psy,2,Context in defences allows for prefered methods of attack,,,,,,,0,0,0
+Auto Action,Precognition,Psy,2.3,When an action is required you move before knowing you need to perform the action,,,,,,,0,0,0
+Reading,Clairvoyance,Psy,1,Gague people better and deliver better conversation,,,,,,,0,0,0
+Observance,Clairvoyance,Psy,1,Remote viewing of objects and people,,,,,,,0,0,0
+Interuption,Clairvoyance,Psy,1.1,Impead the persons capacity to operate normaly,,,,,,,0,0,0
+Aura,Clairvoyance,Psy,1.4,See what a persons dreams are to better understand them,,,,,,,0,0,0
+Augmented Diplomacy,Clairvoyance,Psy,1.2,Delegation and team impact of needs is greater felt,,,,,,,0,0,0
+Unified Governence,Clairvoyance,Psy,1.3,Management of groups becomes easier when a common goal is understood,,,,,,,0,0,0
+Construct,Construct,Imbuing,1.4,Psychic energy manifestation into the physical world,,,,,,,0,0,0
+Barrier,Construct,Imbuing,1.5,Planes of psychic manifestation in the physical,,,,,,,0,0,0
+Wearable,Construct,Imbuing,1.8,Physical manifestations able to be worn as usable items of clothing,,,,,,,0,0,0
+Tool,Construct,Imbuing,2.2,Functional tools and utilities created through psychic effort,,,,,,,0,0,0
+Finned Body,Construct,Imbuing,3,Create a body manifestation shapped as a fish,,,,,,,0,0,0
+Hexapod Body,Construct,Imbuing,3.4,Create a body manifestation shapped as an insect,,,,,,,0,0,0
+Arthropod Body,Construct,Imbuing,3.8,Create a body manifestation shapped as a spider,,,,,,,0,0,0
+Reptile Body,Construct,Imbuing,4.6,Create a body manifestation shapped as a lizard,,,,,,,0,0,0
+Quadroped Body,Construct,Imbuing,6,Create a body manifestation shapped like a dog,,,,,,,0,0,0
+Body: Chibi,Construct,Imbuing,6.3,"Companion body with highly detailed features, normally with cute characteristics",,,,,,,0,0,0
+Biped Body,Construct,Imbuing,8.3,Create a body manifestation human shapped,,,,,,,0,0,0
+Body: Add Arms (pair),Construct,Imbuing,2.4,"For a body manifestation to have additional arms, this ability can stack",,,,,,,0,0,0
+Body: Add Legs (pair),Construct,Imbuing,2.1,"For a body manifestation to have additional legs, this ability can stack",,,,,,,0,0,0
+Body: Change Size,Construct,Imbuing,1.4,For a body manifestation to change size,,,,,,,0,0,0
+Body: Add Head (Soul Slot),Construct,Imbuing,2.6,"For a body manifestation with an additional head to receive an additional Soul, this ability can stack",,,,,,,0,0,0
+Body: Insect Wings,Construct,Imbuing,1.9,"For a body manifestation to have wings shaped like an insect, this ability can stack",,,,,,,0,0,0
+Body: Bird Wings,Construct,Imbuing,3.2,"For a body manifestation to give wings like a bird,  this ability can stack",,,,,,,0,0,0
+Psy Charge,Fussion,Imbuing,1.2,Provide psychic energy to an item or character,,,,,,,0,0,0
+Imbue,Fussion,Imbuing,1.4,Fuse an Effect onto an object,,,,,,,0,0,0
+Bind Soul,Fussion,Imbuing,1.8,Bind a willing or force an unwilling Soul into a manifestation,,,,,,,0,0,0
+Tear Manifestation,Fussion,Imbuing,2.1,Shatter the reality of a manifestation,,,,,,,0,0,0
+Rip Soul,Fussion,Imbuing,2.4,Break a Souls ability to be a presence within the physical world,,,,,,,0,0,0
+Soul Divining,Perseption,Imbuing,1,Find and befriend willing souls to assist your cause,,,,,,,0,0,0
+Divine Command,Perseption,Imbuing,2.3,Instruct through force on a Soul to comply with your desires,,,,,,,0,0,0
+Deconstruction,Perseption,Imbuing,1.9,Fracture the bonds of a Soul to a character,,,,,,,0,0,0
+Object Modeling,Prospecting,Imbuing,1.1,Clarity of mind about an imbuing an object,,,,,,,0,0,0
+Psychic Mechanic,Prospecting,Imbuing,1.2,Mechanical detailing of physical objects and translation for better production,,,,,,,0,0,0
+Nullification,Prospecting,Imbuing,1.6,Mute or null an imbued objects effect,,,,,,,0,0,0
+Cleansing,Prospecting,Imbuing,1.8,Remove all imbued features from an object,,,,,,,0,0,0
+Worm,Soul,Imbuing,1.1,Weakest of all Souls and bears little energy output into a construct,,,,,,,0,0,0
+Insect,Soul,Imbuing,1.3,Agreeable Soul able to perform slightly,,,,,,,0,0,0
+Fish,Soul,Imbuing,1.8,Instintual Soul bringing presence into a construct,,,,,,,0,0,0
+Bird,Soul,Imbuing,2.3,Ranged and insightful Souls,,,,,,,0,0,0
+Rodent,Soul,Imbuing,2.4,Anxious or inquisitive Souls,,,,,,,0,0,0
+Cat,Soul,Imbuing,2.9,Hunters and nurturing Souls,,,,,,,0,0,0
+Dog,Soul,Imbuing,2.9,Loyally defencive Souls,,,,,,,0,0,0
+Dolphin,Soul,Imbuing,3.7,Philosophical sex pest Souls,,,,,,,0,0,0
+Human,Soul,Imbuing,5.3,Common psyche found to talk with,,,,,,,0,0,0
+Demi-God,Soul,Imbuing,8.6,"Bridge of worlds, Souls of power in abundance",,,,,,,0,0,0
+Angel,Soul,Imbuing,11.5,"Divine mind, divine power",,,,,,,0,0,0
+Kami,Soul,Imbuing,18,Extremely rare and most powerful Souls available to the multi-multiverse,,,,,,,0,0,0
+Walther P22,Pistols,Small Arms,1.1,Firearm ability,,,,,,,0,0,0
+Deasert Eagle,Pistols,Small Arms,1.1,Firearm ability,,,,,,,0,0,0
+Colt .357 Magnum Trooper MK III,Pistols,Small Arms,1,Firearm ability,,,,,,,0,0,0
+Smith and Wesson Model 29,Pistols,Small Arms,1,Firearm ability,,,,,,,0,0,0
+M1 Garand Rifle,Rifles,Small Arms,1.3,Firearm ability,,,,,,,0,0,0
+Browning X-BOLT 30-06,Rifles,Small Arms,1.3,Firearm ability,,,,,,,0,0,0
+Heckler & Koch MG5,Machine Guns,Small Arms,1.4,Firearm ability,,,,,,,0,0,0
+Grenade Assembly,Grenades,Small Arms,4.2,Create grenades,,,,,,,0,0,0
+Grenade Priming,Grenades,Small Arms,1.3,Prime a grenade for live action,,,,,,,0,0,0
+Exothermic Compound,Explosives,Small Arms,6.1,Create Explosives,,,,,,,0,0,0
+Explosive Deployment,Explosives,Small Arms,3.8,Deployment knowledge for strategic distruction,,,,,,,0,0,0
+Model Analysis,Psychology,Logical,1,Ability to analyse psychological profiles,,,,,,,0,0,0
+Ethical Philosophy,Psychology,Logical,1,Subjective assertions in bahiour through the insight of philosophy.,,,,,,,0,0,0
+Social Media,Psychology,Logical,1,Awareness of social movements on new media platforms.,,,,,,,0,0,0
+Negotiation,Debate,Logical,1,Presenting agreeable options for the oposition of a debatable point.,,,,,,,0,0,0
+Leverage,Debate,Logical,1,Removing anothers desire to hinder the option of a debatable point.,,,,,,,0,0,0
+Compromise,Debate,Logical,1,Pulling options from discussion while keeping face.,,,,,,,0,0,0
+Philisophical,Debate,Logical,1,Providing perspectives relevant to a topic highely theoretical.,,,,,,,0,0,0
+Learning,Learning,Logical,1,Defines the potential capability to learn any particular subject.,,,,,,,0,0,0
+Artificial Linguist,AI,Logical,1,Communication with Artifical Intelegence's to better understand their true self and opinions.,,,,,,,0,0,0
+Inteligence Architect,AI,Logical,1,Provitioning a rooting for an inteligence to grow from artificially.,,,,,,,0,0,0
+Shield AI,AI,Logical,1,Psychologist to AI where the physical form is relative to the energy accesible to it.,,,,,,,0,0,0
+Robotic AI,AI,Logical,1,Assistant to AI willing to appropriate a physical body.,,,,,,,0,0,0
+Parenting,Common Sense,Logical,1,Defining role any species can provide to society as a healthy bearer of new [insert species here].,,,,,,,0,0,0
+Safety,Common Sense,Logical,1,"Wardens of safety, ensuring the pains from life are not a companies fault.",,,,,,,0,0,0
+Morality,Common Sense,Logical,1,Don't be a cunt.,,,,,,,0,0,0
+Astrophysics,Physics,Logical,1,"Astral modeling, navigation, and detection of other planets, among the breadth of topic.",,,,,,,0,0,0
+Mechanics,Physics,Logical,1,Mathematical definitions of physical properties in objects.,,,,,,,0,0,0
+Quantum,Physics,Logical,1,Workings of the universe to be known for scientific applications.,,,,,,,0,0,0
+Thermonucler,Physics,Logical,1,Dedication into the fussion and fission of atoms.,,,,,,,0,0,0
+Data Storage,Programming,Logical,1,Application of data storage from digital media.,,,,,,,0,0,0
+Cybernetworking,Programming,Logical,1,Connectivity of mechanical body modificiation.,,,,,,,0,0,0
+Games,Programming,Logical,1,Programmer providing games for entertainment.,,,,,,,0,0,0
+Application,Programming,Logical,1,Utility programming for efficient tools.,,,,,,,0,0,0
+Security,Programming,Logical,1,"Hacking, cracking, and protection from cyber threats.",,,,,,,0,0,0
+Operational,Programming,Logical,1,Provisioning of hardware and software for programming platforms.,,,,,,,0,0,0
+Mathematics,Computational,Logical,1,Mathematical calculations and knowledge related to topic.,,,,,,,0,0,0
+Procedural,Computational,Logical,1,Processing of information through mathematical equations.,,,,,,,0,0,0
+High Dimension,Computational,Logical,1,Extra dimensional mathematical specification and the application in the universe.,,,,,,,0,0,0
+Minded,Minded,Creative,1,Self reflective analysis providing wide bredth of internal communication.,,,,,,,0,0,0
+Painting,Artistry,Creative,1,Application of paint to surface as a form of expressive media.,,,,,,,0,0,0
+Sculpture,Artistry,Creative,1,Meterial based medium presenting art work.,,,,,,,0,0,0
+Performance,Artistry,Creative,1,Display through action expression of ideas.,,,,,,,0,0,0
+Theatrical,Artistry,Creative,1,Appropriation of a character to present a story to others.,,,,,,,0,0,0
+Written,Artistry,Creative,1,The writen word.,,,,,,,0,0,0
+Digital,Artistry,Creative,1,Art defined through the digital space.,,,,,,,0,0,0
+Design,Cultural,Creative,1,Consumer and aspirational designs for products and marketing.,,,,,,,0,0,0
+Architecture,Cultural,Creative,1,"Structures, buildings, and craft to house people.",,,,,,,0,0,0
+Fashion,Cultural,Creative,1,Clothing styled for the now.,,,,,,,0,0,0
+Punk,Cultural,Creative,1,Movement against authority and the art spawned from.,,,,,,,0,0,0
+Aristocrat,Cultural,Creative,1,Dictoral expectations for the art world.,,,,,,,0,0,0
+Expressive,Individualism,Creative,1,Tailored style in response to inward analysis.,,,,,,,0,0,0
+Self Defining,Individualism,Creative,1,Separation from the status quo through design.,,,,,,,0,0,0
+Attunement,Attunement,Creative,1,Ease to project and reflect others' opinions and ideas creatively.,,,,,,,0,0,0
+Military,Tactics,Leadership,1,Squad tactics to move where required.,,,,,,,0,0,0
+Heirarchical,Tactics,Leadership,1,Business heirarchy to assert authority.,,,,,,,0,0,0
+Political,Tactics,Leadership,1,Balancing of ideas and people for ones own goals.,,,,,,,0,0,0
+Meritocratic,Unity,Leadership,1,Combined authority working in a cohesive operation.,,,,,,,0,0,0
+Peaceful,Unity,Leadership,1,Non abusive management of self and environment.,,,,,,,0,0,0
+Capitalism,Idealism,Leadership,1,Creation of markets for personal profit.,,,,,,,0,0,0
+Democarcy,Idealism,Leadership,1,Shared election of power.,,,,,,,0,0,0
+Communism,Idealism,Leadership,1,Equal oportunity and share of a governements profits.,,,,,,,0,0,0
+Libertarian,Idealism,Leadership,1,Promotion of ability to the individual.,,,,,,,0,0,0
+Dictatorship,Idealism,Leadership,1,Authority removed from responsibility to the people.,,,,,,,0,0,0
+Governance,Trusting,Leadership,1,Ability to manage.,,,,,,,0,0,0
+Business Connector,Networking,Leadership,1,Industrial connections for production opportunities.,,,,,,,0,0,0
+Stock Analyst,Networking,Leadership,1,Reading industrial movements with views for capitalistic gains.,,,,,,,0,0,0
+Business Apraisal,Networking,Leadership,1,Valuation appraisal of an organisation.,,,,,,,0,0,0
+Friendly,Likable,Comedy,1,,,,,,,,0,0,0
+Debauched,Likable,Comedy,1,,,,,,,,0,0,0
+Conservative,Likable,Comedy,1,,,,,,,,0,0,0
+Refined,Likable,Comedy,1,,,,,,,,0,0,0
+Openess,Adjustment,Comedy,1,,,,,,,,0,0,0
+Heckling,Adjustment,Comedy,1,,,,,,,,0,0,0
+Coersion,Adjustment,Comedy,1,,,,,,,,0,0,0
+Apreciation,Worth,Comedy,1,,,,,,,,0,0,0
+Honor,Worth,Comedy,1,,,,,,,,0,0,0
+Honesty,Perspective,Comedy,1,,,,,,,,0,0,0
+Evil,Perspective,Comedy,1,,,,,,,,0,0,0
+Chaotic,Manipulation,Comedy,1,,,,,,,,0,0,0
+Hate Munger,Manipulation,Comedy,1,,,,,,,,0,0,0
+Shaming,Manipulation,Comedy,1,,,,,,,,0,0,0
+Hedging,Haggling,Sales,1,,,,,,,,0,0,0
+Gambling,Haggling,Sales,1,,,,,,,,0,0,0
+Bargain,Haggling,Sales,1,,,,,,,,0,0,0
+Advertising,Distraction,Sales,1,,,,,,,,0,0,0
+Incentivise,Distraction,Sales,1,,,,,,,,0,0,0
+Gamify,Distraction,Sales,1,,,,,,,,0,0,0
+Story Telling,Acting,Sales,1,,,,,,,,0,0,0
+Conflictive,Acting,Sales,1,,,,,,,,0,0,0
+Allure,Seduction,Sales,1,,,,,,,,0,0,0
+Sexualisation,Seduction,Sales,1,,,,,,,,0,0,0
+Disarm,Seduction,Sales,1,,,,,,,,0,0,0
+Coerce,Seduction,Sales,1,,,,,,,,0,0,0
+Enquisitive,Gossip,Sales,1,,,,,,,,0,0,0
+Networking,Gossip,Sales,1,,,,,,,,0,0,0
+Neo-Buddhist,Religous,Faith,1,,,,,,,,0,0,0
+Buddhist,Religous,Faith,1,,,,,,,,0,0,0
+Christianity,Religous,Faith,1,,,,,,,,0,0,0
+Hindu,Religous,Faith,1,,,,,,,,0,0,0
+Islam,Religous,Faith,1,,,,,,,,0,0,0
+Divine Connection,Heavens,Faith,1,,,,,,,,0,0,0
+Information,Heavens,Faith,1,,,,,,,,0,0,0
+Autozelot Action,Heavens,Faith,1,,,,,,,,0,0,0
+Theologian,Theologian,Faith,1,,,,,,,,0,0,0
+Channeling,Medium,Faith,1,,,,,,,,0,0,0
+Connection Stability,Medium,Faith,1,,,,,,,,0,0,0
+Scryer,Medium,Faith,1,Tuning of power through writings on objects for better fortune.,,,,,,,0,0,0
+Meditation,Seraphic,Faith,1,,,,,,,,0,0,0
+Determination,Seraphic,Faith,1,,,,,,,,0,0,0
+CNC,Production,Engineering,1,,,,,,,,0,0,0
+Additive Production,Production,Engineering,1,,,,,,,,0,0,0
+Automation,Production,Engineering,1,,,,,,,,0,0,0
+Alloys,Material,Engineering,1,,,,,,,,0,0,0
+Biomesh,Material,Engineering,1,,,,,,,,0,0,0
+Neuralchips,Cybernetics,Engineering,1,Neural interface designer and engineer.,,,,,,,0,0,0
+Cyberthetic,Cybernetics,Engineering,1,Designer of cybernetic limbs and bodies.,,,,,,,0,0,0
+Cyber Security,Cybernetics,Engineering,1,,,,,,,,0,0,0
+Shieldtac,Shields,Engineering,1,Engines and projectors for barriers and shield artifacts.,,,,,,,0,0,0
+Microchip,Applied,Engineering,1,,,,,,,,0,0,0
+Laser,Applied,Engineering,1,,,,,,,,0,0,0
+Gravity Engineer,Applied,Engineering,1,,,,,,,,0,0,0
+Darkmatter Engineer,Applied,Engineering,1,,,,,,,,0,0,0
+Robotic Engineering,Applied,Engineering,1,,,,,,,,0,0,0
+Electrician,Energy,Engineering,1,,,,,,,,0,0,0
+Generators,Energy,Engineering,1,,,,,,,,0,0,0
+Compounds,Compounds,Chemistry,1,,,,,,,,0,0,0
+Mining,Reactives,Chemistry,1,,,,,,,,0,0,0
+Corrosives,Reactives,Chemistry,1,,,,,,,,0,0,0
+Amphetamines,Pharmaceutical,Chemistry,1,,,,,,,,0,0,0
+Anesthetist,Pharmaceutical,Chemistry,1,,,,,,,,0,0,0
+Anti-toxins,Pharmaceutical,Chemistry,1,,,,,,,,0,0,0
+Nerve Agents,Toxicology,Chemistry,1,,,,,,,,0,0,0
+Phages,Toxicology,Chemistry,1,,,,,,,,0,0,0
+Poisons,Toxicology,Chemistry,1,,,,,,,,0,0,0
+Nanocontrol,Nanotech,Chemistry,1,,,,,,,,0,0,0
+Nanofarmer,Nanotech,Chemistry,1,,,,,,,,0,0,0
+Industrial Breeder,Nanotech,Chemistry,1,,,,,,,,0,0,0
+DNA Sampling,Genetics,Biology,1,,,,,,,,0,0,0
+Genetic Coder,Genetics,Biology,1,,,,,,,,0,0,0
+Nurse,Medical,Biology,1,,,,,,,,0,0,0
+Pharmacist,Medical,Biology,1,,,,,,,,0,0,0
+Crash Care,Medical,Biology,1,,,,,,,,0,0,0
+Laboratory Care,Medical,Biology,1,,,,,,,,0,0,0
+Surgeon,Surgery,Biology,1,,,,,,,,0,0,0
+Plasticist,Surgery,Biology,1,,,,,,,,0,0,0
+Remote Surgeon,Surgery,Biology,1,,,,,,,,0,0,0
+Neurologist,Neurology,Biology,1,Analyst and modeler for neural behaviour.,,,,,,,0,0,0
+Neural Engineer,Neurology,Biology,1,Applied neurologist with intensive specialisation.,,,,,,,0,0,0
+Autoimmunization,Autoimmunization,Biology,1,,,,,,,,0,0,0
+Driving,Cars,Driving,1,,,,,,,,0,0,0
+Rally,Cars,Driving,1,,,,,,,,0,0,0
+Track,Cars,Driving,1,,,,,,,,0,0,0
+Ion Fighter,Space,Driving,1,,,,,,,,0,0,0
+Space Liner,Space,Driving,1,,,,,,,,0,0,0
+Jet Fighter,Planes,Driving,1,,,,,,,,0,0,0
+Air Liner,Planes,Driving,1,,,,,,,,0,0,0
+Helicopter,Planes,Driving,1,,,,,,,,0,0,0
+Tanker,Rigs,Driving,1,,,,,,,,0,0,0
+Articulated,Rigs,Driving,1,,,,,,,,0,0,0
+Train,Rigs,Driving,1,,,,,,,,0,0,0
+Tracked,Tanks,Driving,1,,,,,,,,0,0,0
+Exobiped,Tanks,Driving,1,,,,,,,,0,0,0
+SpiderMech,Tanks,Driving,1,,,,,,,,0,0,0
+ConstructMech,Tanks,Driving,1,,,,,,,,0,0,0
+Focusing,Chi,Kung Fu,1,,,,,,,,0,0,0
+Reiki,Chi,Kung Fu,1,,,,,,,,0,0,0
+Sensitivity,Chi,Kung Fu,1,,,,,,,,0,0,0
+Concentration,Discipline,Kung Fu,1,,,,,,,,0,0,0
+Single Minded,Discipline,Kung Fu,1,,,,,,,,0,0,0
+Bone Strengthening,Conditioning,Kung Fu,1,,,,,,,,0,0,0
+Nerve numbing,Conditioning,Kung Fu,1,,,,,,,,0,0,0
+Punch,Fists,Kung Fu,1,,,,,,,,0,0,0
+Grapple,Fists,Kung Fu,1,,,,,,,,0,0,0
+Knife,Fists,Kung Fu,1,,,,,,,,0,0,0
+Dislocation,Fists,Kung Fu,1,,,,,,,,0,0,0
+Kick,Legs,Kung Fu,1,,,,,,,,0,0,0
+Roundhouse,Legs,Kung Fu,1,,,,,,,,0,0,0
+Tackle,Legs,Kung Fu,1,,,,,,,,0,0,0
+Cripple,Legs,Kung Fu,1,,,,,,,,0,0,0
+Climb,Athletics,Kung Fu,1,,,,,,,,0,0,0
+Run,Athletics,Kung Fu,1,,,,,,,,0,0,0
+Swim,Athletics,Kung Fu,1,,,,,,,,0,0,0
+Lift,Athletics,Kung Fu,1,,,,,,,,0,0,0
+Foil,Sword,Melee,1,,,,,,,,0,0,0
+Sabre,Sword,Melee,1,,,,,,,,0,0,0
+Dagger,Sword,Melee,1,,,,,,,,0,0,0
+Bastard,Sword,Melee,1,,,,,,,,0,0,0
+Toothed,Club,Melee,1,,,,,,,,0,0,0
+Spiked,Club,Melee,1,,,,,,,,0,0,0
+Cudgel,Club,Melee,1,,,,,,,,0,0,0
+Woodsman,Axe,Melee,1,,,,,,,,0,0,0
+Battle,Axe,Melee,1,,,,,,,,0,0,0
+Doubleaxe,Axe,Melee,1,,,,,,,,0,0,0
+Counter Goofy,Multi Handed,Melee,1,,,,,,,,0,0,0
+Physical Defence,Shielded,Melee,1,,,,,,,,0,0,0
+Bludgeon,Shielded,Melee,1,,,,,,,,0,0,0
+Throwing Knives,Thrown,Projectiles,1,,,,,,,,0,0,0
+Throwing Axes,Thrown,Projectiles,1,,,,,,,,0,0,0
+Darts,Thrown,Projectiles,1,,,,,,,,0,0,0
+Grenades,Thrown,Projectiles,1,,,,,,,,0,0,0
+Spears,Thrown,Projectiles,1,,,,,,,,0,0,0
+Bow,Archery,Projectiles,1,,,,,,,,0,0,0
+Crossbow,Archery,Projectiles,1,,,,,,,,0,0,0
+Sling,Archery,Projectiles,1,,,,,,,,0,0,0
+Blowdart,Blown,Projectiles,1,,,,,,,,0,0,0
+Dust,Blown,Projectiles,1,,,,,,,,0,0,0
+Vomit,Evacuation,Projectiles,1,,,,,,,,0,0,0
+Diharea,Evacuation,Projectiles,1,,,,,,,,0,0,0
+Manifestation,Manifestation,Projectiles,1,,,,,,,,0,0,0
+RPG,Rocketry,Special Arms,1,,,,,,,,0,0,0
+Mortar,Rocketry,Special Arms,1,,,,,,,,0,0,0
+Plasma Rifle,Energy Weapons,Special Arms,1,,,,,,,,0,0,0
+Laser Rifle,Energy Weapons,Special Arms,1,,,,,,,,0,0,0
+Radiation Rifle,Energy Weapons,Special Arms,1,,,,,,,,0,0,0
+Dark Matter Porjector,Energy Weapons,Special Arms,1,,,,,,,,0,0,0
+Gravity Emitter,Energy Weapons,Special Arms,1,,,,,,,,0,0,0
+Rail Weapons,Vacum Weapons,Special Arms,1,,,,,,,,0,0,0
+Continuous Beam Emitter,Vacum Weapons,Special Arms,1,,,,,,,,0,0,0
+Artillery,Artillery,Special Arms,1,,,,,,,,0,0,0
+Warehouse Assistance Suit,Exoskeletons,Special Arms,1,,,,,,,,0,0,0
+Fabric Armour,Armour,Protection,1,,,,,,,,0,0,0
+Platemail,Armour,Protection,1,,,,,,,,0,0,0
+Mechanised,Armour,Protection,1,,,,,,,,0,0,0
+Disposable Shields,Shields,Protection,1,,,,,,,,0,0,0
+Perpetual Shielding,Shields,Protection,1,,,,,,,,0,0,0
+Reactive Shielding,Shields,Protection,1,,,,,,,,0,0,0
+Preparedness,Drill,Protection,1,,,,,,,,0,0,0
+Regimented,Drill,Protection,1,,,,,,,,0,0,0
+Unholster,Drill,Protection,1,Ready items and weapons in hand for action.,,,,,,,0,0,0
+Awareness,Environmental,Protection,1,,,,,,,,0,0,0
+Radiation Measures,Environmental,Protection,1,,,,,,,,0,0,0
+Biological Counter Measures,Environmental,Protection,1,,,,,,,,0,0,0
+Shamon,Warding,Protection,1,Ritualistic provisioner of fortunes and wards.,,,,,,,0,0,0
+Inscriber,Warding,Protection,1,Naturalist channeling fortune onto objects and people.,,,,,,,0,0,0

@@ -1,0 +1,20 @@
+Name,Function,Combined,Fabrication,Fabrication Budget,Design,Design Budget,Degeneration Ratio
+Organic,Strength,1,1,1,1,1,1
+Organic,Reflex,1,1,1,1,1,0.2
+Organic,Endurance,1,1,1,1,1,0.8
+Organic,Metabolism,1,1,1,1,1,0.1
+Organic,Looks,1,1,1,1,1,1
+Organic,Luck,1,1,1,1,1,0.6
+Organic,Dexterity,1,1,1,1,1,1
+Organic,Willpower,1,1,1,1,1,1.1
+Organic,Belief,1,1,1,1,1,0.8
+Organic,Intelligence,1,1,1,1,1,0.9
+Organic,Charm,1,1,1,1,1,0.6
+Organic,Psychic,1,1,1,1,1,0.3
+Hungtai Corp,,,,,,,
+Venical Industries,,,,,,,
+Reikvone,,,,,,,
+DSW,,,,,,,
+Taimung Star,,,,,,,
+Solo Mio,,,,,,,
+Terran Government,,,,,,,

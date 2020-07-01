@@ -1,0 +1,7 @@
+Name,Type,Description,Relationships,Disorders,Total
+Humble,External,Ability to empathise and manage other people.,Leader|Lover|Bully,,1
+Extroverted,External,Excited behaviour towards topics and ideas.,Sibling|Spouse,,1
+Thrifty,External,Calculated towards the persistence of wealth.,Soupse|Care,,1
+Stressed,Personal,Acceptance of mental issues as ones own.,Leader,Acute Stress,1
+Depressed,Personal,Lack of appreciation towards inner demands.,Leader|Bully,Depression,1
+Psychotic,Personal,Un-acceptance to physical observations.,Bully,Psychotic Disorder,1

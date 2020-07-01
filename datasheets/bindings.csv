@@ -1,0 +1,46 @@
+Known,Bound,Time,Description,Help
+j,j,,Action Left hand,Action the item contained in your left hand.
+k,k,,Action Right hand,Action the item contained in your right hand.
+x,x,,Toggle combat mode,Hold to switch style of combat or use a kick instead of you hands by default.
+w,w,,Forward,"Move forwards, movement is normally a light jog."
+s,s,,Backward,"Move backwards, generally slower than moving forwards."
+a,a,,Left,Strafe left.
+d,d,,Right,Strafe right.
+r,r,,Reload,Ready yourself or reload conventional weapons.
+r,r,400,Holster,Ease readiness and holster items and weapons.
+e,e,,Interact,"Interact dynamically with objects in the world, converse with NPCs, enter or leave vehicles."
+v,v,,Charge psychic objects,Charge items in your possession or at a ranged target with Psychic energy.
+q,q,,Grenade,"Holding down the Grenade button will hot swap an available grenade into your throwing hand, by holding down the matching action hand button you will gain potential and throw the Grenade. Without any potential a grenade can be put away safely."
+,,,,
+ctrl,ctrl,,Crouch,Lower your body to a crouch to duck behind objects and lower your target profile.
+shift,shift,,Sprint,Run.
+space,space,,Jump,"Jump or vault over items, for timed interactions grappling will be applied on high ledges for short periods of time allowing the character to press Jump again and pull yourself up and over the object."
+alt,alt,,Walk,Walk.
+tab,tab,,Menu,Quick menu for item and weapon layout.
+,,,,
+i,i,,Check inventory,Inventory management and a full item and weapon system layout.
+c,c,,Check character statistics,Character sheet with all your statistics.
+t,t,,Notes,Journal and personal utility options.
+m,m,,Map,Map of the area for orienteering.
+,,,,
+wheel press,wheel press,,Scope,Aim targets through scope.
+wheel scroll  up,wheel scroll  up,,Previous weapon,Select the previous item in your quick menu bar.
+wheel scroll  down,wheel scroll  down,,Next weapon,Select the next item in your quick menu bar.
+1,1,,Use hot item 1,Quick select item number 1.
+2,2,,Use hot item 2,Quick select item number 2.
+3,3,,Use hot item 3,Quick select item number 3.
+4,4,,Use hot item 4,Quick select item number 4.
+5,5,,Use hot item 5,Quick select item number 5.
+6,6,,Use hot item 6,Quick select item number 6.
+7,7,,Use hot item 7,Quick select item number 7.
+8,8,,Use hot item 8,Quick select item number 8.
+9,9,,Use hot item 9,Quick select item number 9.
+0,0,,Use hot item 10,Quick select item number 10.
+,,,,
+o,o,,Quit the game,"Quit the game, testing purposes only."
+h,h,,Help menu,Help options and these instructions.
+p,p,,Frame,Process a frame.
+u,u,,Update,"Statistics update, testing purposes only."
+l,l,,Death,Kill this characters body.
+,,,,
+^v,^v,,temp binding up,temp

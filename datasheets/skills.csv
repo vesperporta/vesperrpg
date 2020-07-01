@@ -1,0 +1,96 @@
+Name,Discipline,Stat,Description,License Trade,License Act,Cross,Mult,Cross,Mult,Type,Energy Draw Ratio,Fatigue Draw Ratio,Concentration Draw Ratio
+Haggling,Sales,Charm,Techniques to get a better deal,0,0,Likable,0.3,Tactics,0.1,Business,0,0,0
+Distraction,Sales,Luck,Mislead away from the expected outcome,0,0,Acting,0.3,Perspective,0.1,Psychology,0,0,0
+Acting,Sales,Looks,Delivery of a Lie,0,0,Haggling,0.3,Trusting,0.1,Arts,0,0,0
+Seduction,Sales,Looks|Charm,Alure of self as a desire,0,0,Worth,0.3,Artistry,0.1,Arts,0,0,0
+Gossip,Sales,Charm,Sharing of information,0,0,Trusting,0.3,Manipulation,0.1,Psychology,0,0,0
+Likable,Comedy,Charm,Magnet of other personalities,0,0,Trusting,0.3,Cultural,0.1,Humanities,0,0,0
+Adjustment,Comedy,Intelligence,Change in circumstance management,0,0,Perspective,0.3,Individualism,0.1,Psychology,0,0,0
+Worth,Comedy,Belief,Believing in yourself,0,0,Idealism,0.3,Seduction,0.1,Psychology,0,0,0
+Perspective,Comedy,Willpower,Life application and how to understand the world,0,0,Unity,0.3,Computational,0.1,Arts|Languages,0,0,0
+Manipulation,Comedy,Intelligence,Bearing an idea into another,0,0,Acting,0.3,Distraction,0.1,Psychology,0,0,0
+Tactics,Leadership,Intelligence,Interpersonal management,0,0,Common Sense,0.3,Trusting,0.1,Science,0,0,0
+Unity,Leadership,Charm,Group tactics,0,0,Adjustment,0.3,Idealism,0.1,Humanities,0,0,0
+Idealism,Leadership,Willpower,Coolness of self,0,0,Perspective,0.3,Seraphic,0.1,Humanities,0,0,0
+Trusting,Leadership,Belief,Desired as a source of trust,0,0,Worth,0.3,Cultural,0.1,Business,0,0,0
+Networking,Leadership,Charm,Connecting people,0,0,Tactics,0.3,Gossip,0.1,Business,0,0,0
+Minded,Creative,Intelligence,Piece thoughts together interestingly,0,0,Perspective,0.3,Adjustment,0.1,Design,0,0,0
+Artistry,Creative,Belief,Derive worth into a product through art,0,0,Haggling,0.3,Worth,0.1,Arts,0,0,0
+Cultural,Creative,Belief,Knowledge of a society,0,0,Individualism,0.3,Artistry,0.1,Arts|Languages,0,0,0
+Individualism,Creative,Willpower,Definition of self,0,0,Adjustment,0.3,Worth,0.1,Design,0,0,0
+Attunement,Creative,Psychic,Psychic prowess in displacing your mind into Vaikuntha,0,0,Clairvoyance,0.3,Common Sense,0.1,Design|Business,0,0,0
+Computational,Logical,Intelligence,Algorithmic calculation and processing,0,0,Learning,0.3,Production,0.1,Computing,0,0,0
+Programming,Logical,Intelligence,Interaction and building with computers,0,0,Computational,0.3,Perspective,0.1,Computing|Science,0,0,0
+Physics,Logical,Intelligence,Understanding of the universe,0,0,Computational,0.3,Applied,0.1,Science,0,0,0
+Common Sense,Logical,Intelligence,Cultural sense applied practicaly,0,0,Minded,0.3,Perspective,0.1,Environment,0,0,0
+AI,Logical,Intelligence,Simulation of other minds,0,0,Programming,0.3,Minded,0.1,Computing|Science,0,0,0
+Learning,Logical,Intelligence,Gaining insight from actions beyond normal,0,0,Idealism,0.3,Common Sense,0.1,Education,0,0,0
+Psychology,Logical,Intelligence,Psychological analyis and practitioner,0,0,Perspective,0.3,Minded,0.1,Psychology,0,0,0
+Debate,Logical,Intelligence,Logical positioning through conversation,0,0,Perspective,0.3,Haggling,0.1,Law|Psychology,0,0,0
+Religous,Faith,Belief,Curator of rituals and belief,0,0,Trusting,0.3,Seduction,0.1,Humanities,0,0,0
+Heavens,Faith,Belief,Definition of Vaikuntha within the physical universe,0,0,Individualism,0.3,Minded,0.1,Humanities,0,0,0
+Theologian,Faith,Belief,Interlocular for theological issues,0,0,Idealism,0.3,Worth,0.1,Humanities|Education,0,0,0
+Medium,Faith,Psychic,Channeling power from the Heavens,0,0,Attunement,0.3,Trusting,0.1,Education,0,0,0
+Seraphic,Faith,Dexterity,Honed intuition for purity in ones own mind,0,0,Adjustment,0.3,Distraction,0.1,Environment,0,0,0
+Production,Engineering,Intelligence,Crafting equipment,0,0,Physics,0.3,Material,0.1,Engineering,0,0,0
+Material,Engineering,Intelligence,Aquirement and purposing of elements,0,0,Componds,0.3,Physics,0.1,Engineering,0,0,0
+Cybernetics,Engineering,Intelligence,Integration of computer and mechanical and biology,0,0,Material,0.3,Programming,0.1,Engineering|Computing,0,0,0
+Construct Engines,Engineering,Intelligence,Management of energy forming a physical body,0,0,Energy,0.3,Applied,0.1,Engineering|Science,0,0,0
+Applied,Engineering,Intelligence,Applied physics and advanced mechanics,0,0,Physics,0.3,Cultural,0.1,Engineering,0,0,0
+Energy,Engineering,Intelligence,Power generation and application,0,0,Physics,0.3,Learning,0.1,Engineering|Science,0,0,0
+Componds,Chemistry,Intelligence,Solutions derived to interact with physical objects,0,0,Reactives,0.3,Computational,0.1,Science,0,0,0
+Reactives,Chemistry,Intelligence,Endothermic and exothermic and other chemicals,0,0,Material,0.3,Physics,0.1,Science,0,0,0
+Pharmaceutical,Chemistry,Intelligence,Drugs to deliver effects to a biological system,0,0,Medical,0.3,Autoimmunization,0.1,Health|Science,0,0,0
+Toxicology,Chemistry,Intelligence,Toxins and poisons removing functionality from a biological system,0,0,Neurology,0.3,Componds,0.1,Science,0,0,0
+Nanotech,Chemistry,Intelligence,Applied nano factories within a body,0,0,Genetics,0.3,Componds,0.1,Science,0,0,0
+Genetics,Biology,Intelligence,Manufacture and manipulation of genetic code,0,0,Computational,0.3,Medical,0.1,Health|Science,0,0,0
+Medical,Biology,Intelligence,Physical healing and treatment,0,0,Pharmaceutical,0.3,Healing,0.1,Nursing,0,0,0
+Surgery,Biology,Intelligence,Invasive body manipulation,0,0,Medical,0.3,Genetics,0.1,Health,0,0,0
+Neurology,Biology,Intelligence,Brain disease healing and cybernetic interface specialisation,0,0,Learning,0.3,Surgery,0.1,Health|Science,0,0,0
+Autoimmunization,Biology,Intelligence,Manipulisation of body to react better to biological environments,0,0,Genetics,0.3,Cybernetics,0.1,Health,0,0,0
+Construct,Imbuing,Psychic,Manifestation of Psychic power physically,0,0,Heavens,0.3,Attunement,0.1,Humanities,8,0,0
+Fussion,Imbuing,Psychic,Combining power into an object,0,0,Attunement,0.3,Medium,0.1,Humanities,0,0,0
+Perseption,Imbuing,Psychic,Understanding of physical objects,0,0,Clairvoyance,0.3,Heavens,0.1,Humanities|Languages,0,0,0
+Prospecting,Imbuing,Psychic,Creative application of Phychic energies,0,0,Medium,0.3,Artistry,0.1,Humanities,0,0,0
+Soul,Imbuing,Willpower|Psychic,Give life to manifestations,0,0,Attunement,0.3,Trusting,0.1,Humanities|Psychology,0,0,0
+Cars,Driving,Belief,Automobile driving,1,1,Common Sense,0.3,Seraphic,0.1,Sports,0,0,0
+Space,Driving,Belief,Astronaught training,1,1,Physics,0.3,Computational,0.1,Sports,0,0,0
+Planes,Driving,Belief,Plane pilot,1,1,Physics,0.3,Common Sense,0.1,Sports,0,0,0
+Rigs,Driving,Belief,Mining and hauler vehicle,1,1,Common Sense,0.3,Tanks,0.1,Sports,0,0,0
+Tanks,Driving,Belief,Heavy armoured vehicles,1,1,Energy,0.3,Physics,0.1,Sports,0,0,0
+Chi,Kung Fu,Dexterity,Channeling of Heavenly energy into self,0,0,Medium,0.3,Attunement,0.1,Martial,0,0,0
+Discipline,Kung Fu,Endurance,Focus upon the action being performed,0,0,Clairvoyance,0.3,Precognition,0.1,Martial,0,0,0
+Conditioning,Kung Fu,Endurance,Body training for fighting,0,0,Armour,0.3,Drill,0.1,Martial,0,0,0
+Fists,Kung Fu,Strength|Reflex,Fist based martial arts,0,0,Sword,0.3,Chi,0.1,Martial,0,0,0
+Legs,Kung Fu,Strength|Reflex,Leg based martial arts,0,0,Club,0.3,Drill,0.1,Martial,0,0,0
+Athletics,Kung Fu,Strength,General fitness in delivering physical performance,0,0,Environmental,0.3,Discipline,0.1,Martial,0,0,0
+Sword,Melee,Strength|Reflex,Sword based martial arts,1,1,Discipline,0.3,Armour,0.1,Martial,0,0,0
+Club,Melee,Strength,Club based martial arts,0,0,Environmental,0.3,Legs,0.1,Martial,0,0,0
+Axe,Melee,Strength,Axe based martial arts,0,1,Drill,0.3,Club,0.1,Martial,0,0,0
+Multi Handed,Melee,Reflex,Use of multiple body parts used for fighting,0,0,Discipline,0.3,Chi,0.1,Martial,0,0,0
+Shielded,Melee,Dexterity,Melee fighting with a shield,0,0,Armour,0.3,Shields,0.1,Martial,0,0,0
+Thrown,Projectiles,Dexterity,Objects thrown by hand,1,1,Environmental,0.3,Minded,0.1,Sports,0,0,0
+Archery,Projectiles,Dexterity,Mastery of bows and crossbows and harpoons and the like,1,1,Artillery,0.3,Conditioning,0.1,Sports,0,0,0
+Blown,Projectiles,Dexterity,Dart based projectile from a pipe,1,1,Artillery,0.3,Chi,0.1,Sports,0,0,0
+Evacuation,Projectiles,Dexterity,Delivery of substance evacuated from a body,0,0,Chi,0.3,Environmental,0.1,Sports,0,0,0
+Manifestation,Projectiles,Psychic,Psychic piercing,0,1,Medium,0.3,Telekinesis,0.1,Sports,0,0,0
+Pistols,Small Arms,Strength|Dexterity,Side arms specialisation,1,1,Discipline,0.3,Drill,0.1,Firearms,0,0,0
+Rifles,Small Arms,Strength|Dexterity,Assault and ranged arms,1,1,Environmental,0.3,Discipline,0.1,Firearms,0,0,0
+Machine Guns,Small Arms,Strength|Dexterity,Automatic and heavy arms,1,1,Applied,0.3,Drill,0.1,Firearms,0,0,0
+Grenades,Small Arms,Dexterity,Projectile based weaponry,1,1,Explosives,0.3,Reactives,0.1,Firearms,0,0,0
+Explosives,Small Arms,Dexterity,Applied reactions for expected results,1,1,Reactives,0.3,Applied,0.1,Firearms,0,0,0
+Rocketry,Special Arms,Strength,Rocket based arms,1,1,Artillery,0.3,Physics,0.1,Firearms,0,0,0
+Energy Weapons,Special Arms,Intelligence,Energy weapons,1,1,Energy,0.3,Physics,0.1,Firearms,0,0,0
+Vacum Weapons,Special Arms,Intelligence,Weapons used in space,1,1,Physics,0.3,Applied,0.1,Firearms,0,0,0
+Artillery,Special Arms,Intelligence,Long range balistics,1,1,Drill,0.3,Applied,0.1,Firearms,0,0,0
+Exoskeletons,Special Arms,Reflex,Robot tool aiding another,1,1,Cybernetics,0.3,Material,0.1,Engineering,0,0,0
+Armour,Protection,Reflex,Physical protection from projectiles and melee,0,0,Drill,0.3,Discipline,0.1,Tactical,0,0,0
+Shields,Protection,Dexterity,Energy fields repeling physical and energy,0,1,Energy,0.3,Discipline,0.1,Tactical,0,0,0
+Drill,Protection,Endurance,Conditioned use with preventative measures,0,0,Discipline,0.3,Conditioning,0.1,Tactical|Health,0,0,0
+Environmental,Protection,Endurance,Stopping hazardous environments from harming self,0,0,Conditioning,0.3,Medical,0.1,Tactical|Health,0,0,0
+Warding,Protection,Willpower,Psychic warding from other influences,0,0,Heavens,0.3,Precognition,0.1,Tactical,0,0,0
+Thermokinesis,Psy,Psychic,Control of temperature of an object,0,1,Material,0.3,Medium,0.1,Psy,0,0,0
+Telekinesis,Psy,Psychic,Movement of objects through psychic means,0,1,Medium,0.3,Precognition,0.1,Psy,0,0,0
+Healing,Psy,Psychic,Psychicaly healing of self and others,0,0,Medium,0.3,Medical,0.1,Psy,0,0,0
+Precognition,Psy,Psychic,Know what will happen when and how,0,0,Armour,0.3,Seduction,0.1,Psy,0,0,0
+Clairvoyance,Psy,Psychic,See with other senses in environment and situation,0,0,Precognition,0.3,Medium,0.1,Psy,0,0,0

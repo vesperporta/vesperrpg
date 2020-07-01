@@ -1,0 +1,19 @@
+Name,Type,Description,Cross,Mult,Cross,Mult,Cross,Mult
+Sales,Person,Selling to others of self worth and products,Comedy,0.5,Creative,0.25,Leadership,0.175
+Comedy,Person,Entertainment and personability with others,Sales,0.5,Leadership,0.25,Faith,0.175
+Leadership,Person,Management of groups and their abilities,Comedy,0.5,Logical,0.25,Creative,0.175
+Creative,Person|Academia,Compounding ideas to manifest thought in others and product,Leadership,0.5,Sales,0.25,Comedy,0.175
+Faith,Person|Academia,Knowledge of the Heavens and Religions,Leadership,0.5,Logical,0.25,Comedy,0.175
+Logical,Academia,Processing of information and determination of fact,Engineering,0.5,Creative,0.25,Faith,0.175
+Chemistry,Academia,Compound production for use in tools,Logical,0.5,Engineering,0.25,Biology,0.175
+Biology,Academia,Genetic and medical knowledge,Chemistry,0.5,Logical,0.25,Engineering,0.175
+Engineering,Academia|Training,Mechanical production of tools,Logical,0.5,Creative,0.25,Faith,0.175
+Imbuing,Academia|Training,Channeling of Psychic energy,Faith,0.5,Creative,0.25,Kung Fu,0.175
+Special Arms,Academia|Training,Heavy weaponry and specialised tools,Engineering,0.5,Projectiles,0.25,Faith,0.175
+Projectiles,Training,Weapons thrown or slung,Engineering,0.5,Logical,0.25,Small Arms,0.175
+Small Arms,Training,Pistols and rifles,Chemistry,0.5,Biology,0.25,Leadership,0.175
+Protection,Training,Armour and shielding,Engineering,0.5,Kung Fu,0.25,Creative,0.175
+Driving,Training,Transport usage,,0.5,Logical,0.25,Comedy,0.175
+Kung Fu,Training|Person,Hand to hand martial arts,Melee,0.5,Protection,0.25,Biology,0.175
+Melee,Training|Person,Weapon based martial arts,Protection,0.5,Engineering,0.25,Sales,0.175
+Psy,Training|Person,Physical application of psychic energy,Faith,0.5,Logical,0.25,Kung Fu,0.175

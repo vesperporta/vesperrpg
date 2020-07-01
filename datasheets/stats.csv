@@ -1,0 +1,13 @@
+Name,Description,Type,Draw,Mult,Draw,Mult,Part,Cross,Mult,Cross,Mult
+Strength,Physical power to apply forces in the universe.,Training,Fatigue,0.8,Concentration,0.2,Body,Dexterity,0.5,Reflex,0.25
+Reflex,Bodies training to send messages and react to situations.,Training,Concentration,0.8,Fatigue,0.2,Body,Willpower,0.5,Strength,0.25
+Endurance,Training and application of capabilities physically.,Academia,Fatigue,0.5,Concentration,0.5,Body,Belief,0.5,Metabolism,0.25
+Metabolism,Chemical balance of a system for regulation and defence.,Academia,Fatigue,0.8,Energy,0.2,Body,Intelligence,0.5,Endurance,0.25
+Looks,Beauty of face and figure of this species.,Person,Energy,0.8,Concentration,0.2,Body,Charm,0.5,Luck,0.25
+Luck,Inate knowledge of how to use or channel fortunate circumstances.,Person,Energy,1,,,Body,Psychic,0.5,Looks,0.25
+Dexterity,Nimblness and agility of mind.,Training,Concentration,0.8,Energy,0.2,Soul,Strength,0.5,Willpower,0.25
+Willpower,Leverage of others to exact ones own demands of a system.,Training,Energy,0.8,Concentration,0.2,Soul,Reflex,0.5,Dexterity,0.25
+Belief,Self assured knowledge of a subject and determination in values.,Academia,Concentration,0.5,Fatigue,0.5,Soul,Endurance,0.5,Intelligence,0.25
+Intelligence,Interlect of various calculatory fashions and desire of knowledge.,Academia,Energy,0.8,Concentration,0.2,Soul,Metabolism,0.5,Belief,0.25
+Charm,Allure of an individual for personal imposition.,Person,Concentration,1,,,Soul,Looks,0.5,Psychic,0.25
+Psychic,Phenominum of intuitive knowledge and soul communication.,Person,Energy,0.8,Concentration,0.2,Soul,Luck,0.5,Charm,0.25

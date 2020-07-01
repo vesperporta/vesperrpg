@@ -1,0 +1,7 @@
+Name,Cross,Mult,Cross,Mult,spread,Mult,spread,Mult,spread,Mult
+Leader,Sales,0.75,Leadership,0.25,Basic,8,Middle,4,Advanced,2
+Sibling,Creative,0.75,Melee,0.25,Basic,2,Middle,1,Advanced,1
+Spouse,Comedy,0.75,Faith,0.25,Basic,0,Middle,0,Advanced,1
+Subordinates,Sales,0.75,Small Arms,0.25,Basic,0,Middle,1,Advanced,4
+Care,Comedy,0.75,Psy,0.25,Basic,1,Middle,0,Advanced,1
+Bully,Engineering,0.75,Creative,0.25,Basic,1,Middle,4,Advanced,4

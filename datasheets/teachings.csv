@@ -1,0 +1,17 @@
+Name,Type,Group,Cross,Points,Cross,Points,Cross,Points,Cross,Points
+Gun Range Savvy,Benefit,Further,Pistols,10,Drill,15,,,,
+Pistol Enthusiast,Benefit,Further,Small Arms,5,Pistols,10,,,,
+Quickdraw,Benefit,Further,Pistols,5,Reflex,1,,,,
+Quickdraw,Detriment,Further,Arthritis,2,,,,,,
+Per Year,Assignable,Primary,Stats,0.001,Disciplines,0.005,Skills,0.01,,
+Body Builder,Benefit,Primary,Strength,2,Endurance,4,,,,
+Discipline Dedication,Benefit,Religion,Faith,8,Psy,5,,,,
+Imbue Initiation,Benefit,Religion,Construct,100,Prospecting,100,Imbuing,1,,
+Advanced Imbuing,Benefit,Religion,Discipline,50,Perseption,25,Construct,30,Imbuing,1
+Autophobia,Phobia,Primary,Autophobia,215999990,,,,,,
+Weapon Maintenance,Benefit,Primary,Small Arms,2,Engineering,1,,,,
+Basic Training,Benefit,Primary,Small Arms,5,,,,,,
+Pistol Shooter,Benefit,Primary,Pistols,20,,,,,,
+Class Head,Social,School,Stressed,3,Extroverted,5,,,,
+Science Club,Social,School,Humble,1,Thrifty,2,Extroverted,1,,
+Science Club,Benefit,School,Engineering,10,Biology,10,,,,

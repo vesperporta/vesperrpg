@@ -1,0 +1,18 @@
+Name,Type,Primary,Description,Cross,Mult,Cross,Mult,Disorders,Total
+Arts,Creative,,,Creative,0.75,Comedy,0.25,,1
+Humanities,Faith,,,Faith,0.75,Psy,0.25,,1
+Business,Sales,,,Sales,0.75,Leadership,0.25,,1
+Computing,Logical,,,Logical,0.75,Logical,0.25,,1
+Design,Creative,,,Creative,0.75,Sales,0.25,,1
+Education,Leadership,,,Leadership,0.75,Logical,0.25,,1
+Engineering,Engineering,Industry,,Engineering,0.75,Engineering,0.25,,1
+Environment,Protection,,,Biology,0.75,Engineering,0.25,,1
+Health,Biology,,,Biology,0.75,Chemistry,0.25,,1
+Social Care,Leadership,,,Comedy,0.75,Logical,0.25,,1
+Languages,Comedy,,,Sales,0.75,Creative,0.25,,1
+Law,Sales,,,Leadership,0.75,Logical,0.25,,1
+Mathematics,Logical,Academia,,Logical,0.75,Logical,0.25,,1
+Nursing,Biology,,,Biology,0.75,Biology,0.25,,1
+Psychology,Logical,,,Comedy,0.75,Protection,0.25,,1
+Science,Logical,,,Engineering,0.75,Chemistry,0.25,,1
+Sports,Kung Fu,,,Kung Fu,0.75,Melee,0.25,,1

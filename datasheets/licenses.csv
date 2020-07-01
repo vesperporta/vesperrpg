@@ -1,0 +1,9 @@
+Name,Type,Requires,Access,Expiry,Violation,Location,Description
+Perl - Terran Government Multi-License,Government,Birth,,20,0,Terra,Identification of a person and catalogue of Governmental access and responsibility.
+Omni - Interstellar Soul Bound Identification,Government,Perl - Terran Government Multi-License|Soul,,40000,0,Terra,"Soul identification through reincarnations, issue of this license is required in person for each reincarnation."
+Drivers License,Driving,Perl - Terran Government Multi-License,Cars,20,1,Terra,Driving registration and legal limits for driving on public roads.
+Neo-Buddhist,Faith,Perl - Terran Government Multi-License,Telekinesis|Imbuing,4,2,Terra,Registration into the Neo-Buddhist faith.
+Unified Scholastic Membership,School,Perl - Terran Government Multi-License,Los Angeles University Campus,4,0,Terra,Registration of student status with the Terran Government.
+Unified ATF Membership,Government,Perl - Terran Government Multi-License,Pistols|Rifles|Shields|Club|Cybernetics,2,5,Terra|Los Angeles,Firearms license directed by the ATF Organisation.
+Hungtai Peace Keeper,Corporate,Perl - Terran Government Multi-License,Small Arms|Shields|Cybernetics|Nanotech|Special Arms|Melee|Projectiles,3,7,Terra,Peace keeping license to possess and bare arms as a service to the Hungtai Corporation.
+UN Arms Trade Certificate,Trade,Perl - Terran Government Multi-License,Small Arms|Shields|Melee|Projectiles,10,2,Terra,Trade certificate to allow the sale of Small Arms and munitions to licensed persons.
