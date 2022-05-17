@@ -1,0 +1,2 @@
+# VesperRPG
+A base application to test character generation within spec of VesperRPG Bimbo'22, interactions with external characters are supplied with signals for each character while a GUI provides a simplistic rendering of actions to generate needed elements. Database is comprised of CSV files to ease viewing of information while developing advanced data storage systems integrating characters into a game system.
